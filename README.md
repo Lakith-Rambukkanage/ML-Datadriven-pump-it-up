@@ -18,6 +18,7 @@ Year difference
 Year difference squared
 
 Polar transforms 
+
     lon_lat_tan = Longitude / Latitude (tan)
 
     lon_lat_r = (Longitude **2 + Latitude **2) **0.5
