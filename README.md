@@ -48,3 +48,7 @@ This predictor was used as the target variable to encode lables with more number
 3. Gain: The average training loss reduction gained when using a feature for splitting.
 
 ![Feature importance based on gain](https://github.com/Lakith-Rambukkanage/ML-Datadriven-pump-it-up/blob/main/XG%20boost%20importance%20snaps/xg%20boost%20importance%20gain.png)
+
+
+Pump it up rank at data driven
+![Rank](https://github.com/Lakith-Rambukkanage/ML-Datadriven-pump-it-up/blob/main/Pump%20it%20Up%20snap.png)
