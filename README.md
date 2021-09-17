@@ -14,10 +14,13 @@ Strings were transformed to numerics when possible. ex-date
 
 ### Mathematical tranformations
 Year difference
+
 Year difference squared
 
-lon_lat_tan = Longitude / Latitude (tan)
-lon_lat_r = (Longitude **2 + Latitude **2) **0.5
+Polar transforms 
+    lon_lat_tan = Longitude / Latitude (tan)
+
+    lon_lat_r = (Longitude **2 + Latitude **2) **0.5
 
 gps_height_sqr = gps_height**2 
 
